@@ -18,7 +18,7 @@ spec:
         app: demo
     spec:
       containers:
-      - image: machala/test:13
+      - image: machala/python234:13
         name: demo
         resources: {}
 status: {}
